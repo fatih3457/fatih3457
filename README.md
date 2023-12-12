@@ -1,9 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Fatih Özcan</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate Full Stack Developer from Turkey</h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Java, SpringBoot, React**
 
 - 📫 How to reach me **fatihozcan90@outlook.com**
 
