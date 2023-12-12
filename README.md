@@ -1,4 +1,4 @@
-(https://hermes.digitalinnovation.one/articles/cover/8faf3e5b-9b24-48b9-8322-497b4d2da4ee.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Fatih Özcan</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
